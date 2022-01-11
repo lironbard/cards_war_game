@@ -1,4 +1,4 @@
-War Cards Mini Game
+✨War Cards Mini Game✨
 
 Main features:
 - JS Logic
